@@ -1,0 +1,9 @@
+1. 服务器
+    1. web服务器
+        1. nginx
+        1. TinyWebServer
+    1. 前端工具
+        1. SmartChart
+        1. DataGear
+1. 深度学习
+    1. caffe框架
