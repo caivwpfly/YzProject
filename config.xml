@@ -1,0 +1,7 @@
+<!-- this is new config xml  -->
+<config>
+  <book id="1">
+    <st>ON</st>
+    <ut>OFF</ut>
+  </book>
+</config>
